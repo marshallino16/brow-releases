@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Brow</title>
+    <link>https://github.com/marshallino16/brow-releases</link>
+    <description>Mises à jour de Brow</description>
+    <language>fr</language>
+    <item>
+      <title>Brow 0.1.0 (16)</title>
+      <pubDate>Tue, 03 Nov 2026 13:12:59 GMT</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description><![CDATA[
+<ul>
+<li><b>Mises à jour automatiques</b> : Brow se met désormais à jour tout seul, jamais pendant une réunion. Réglages › Général › Mises à jour.</li>
+<li><b>Micro</b> : l'enregistrement reste sur le micro du Mac quand un écran AirPlay se connecte, et Brow te prévient si le micro n'entend plus rien pendant 10 s.</li>
+<li><b>Écrans sans encoche</b> : le panneau flottant est entièrement noir, sans bordure grise.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/marshallino16/brow-releases/releases/download/v0.1.0-16/Brow-0.1.0-16.dmg" type="application/octet-stream" sparkle:edSignature="/XqqcmUc5fZb6FNcLAnbyW/PZLyexOtyCv/aOgtFeFKwBuVOiul1i0ZYIFUFBQ2oBUwsMicAe2Sm42pq/GcpDQ==" length="19719920"/>
+    </item>
+  </channel>
+</rss>
